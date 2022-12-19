@@ -30,6 +30,6 @@ No access to premium features, such as advanced MFA options and rule execution
 No access to support beyond community support forums
 If you need more advanced features or higher levels of support, you will need to upgrade to one of Auth0's paid plans. You can find more information about the different plans and pricing on the Auth0 website.
 
-
+rabbitmq
 
 
