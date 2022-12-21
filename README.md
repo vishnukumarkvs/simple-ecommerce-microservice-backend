@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=gesxvFh0U84&t=1477s
+
 npm i express jsonwebtoken amqplib nodemon mongoose
 npm install amqplib
 
